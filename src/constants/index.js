@@ -260,6 +260,71 @@ export const pricing = [
   },
 ];
 
+export const eventsData = [
+  {
+    id: 1,
+    title: "Datathon 2025",
+    shortDescription: "24-hour data challenge pushing boundaries of AI insights.",
+    description:
+      "AICVS Datathon 2025 brings together data enthusiasts, coders, and analysts to solve real-world problems through creative datasets and machine learning.",
+    date: "January 14–15, 2025",
+    thumbnail: datathon,
+    banner: datathon,
+  },
+  {
+    id: 2,
+    title: "Mlusion",
+    shortDescription: "Exploring the intersection of AI and mixed reality.",
+    description:
+      "Mlusion celebrates the fusion of motion and illusion — where immersive technology meets AI-driven creativity.",
+    date: "February 9, 2025",
+    thumbnail: mlusion,
+    banner: mlusion,
+  },
+  {
+    id: 3,
+    title: "Synapse",
+    shortDescription: "Annual flagship techfest uniting innovation and intellect.",
+    description:
+      "Synapse 2025 is where future-forward thinkers showcase research, innovation, and interactive sessions in AI, robotics, and web tech.",
+    date: "March 1–3, 2025",
+    thumbnail: synapse,
+    banner: synapse,
+  },
+  {
+    id: 4,
+    title: "Kaggle Competition",
+    shortDescription: "Compete, predict, and dominate data challenges.",
+    description:
+      "Test your data science and model-building skills against the best minds — an exclusive AICVS-hosted Kaggle competition.",
+    date: "March 15–20, 2025",
+    thumbnail: kaggle,
+    banner: kaggle,
+  },
+  {
+    id: 5,
+    title: "AICVS × Math Club",
+    shortDescription: "Mathematics meets Machine Learning.",
+    description:
+      "A crossover event where AI and math merge — exploring optimization, neural math, and algorithmic beauty in modern computing.",
+    date: "April 10, 2025",
+    thumbnail: math,
+    banner: math,
+  },
+  {
+    id: 6,
+    title: "Workshops on Gen AI",
+    shortDescription: "Hands-on sessions with tools like Gemini, ChatGPT, and DALL·E.",
+    description:
+      "Get practical experience building with Generative AI — fine-tuning prompts, creating art, and exploring multimodal models.",
+    date: "May 6–8, 2025",
+    thumbnail: workshop,
+    banner: workshop,
+  },
+];
+
+
+
 export const team2024 = [
   {
     id: "0",
